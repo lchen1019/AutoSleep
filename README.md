@@ -18,7 +18,7 @@
 ### 2. 判断入睡逻辑
 
 
-<img src="https://s2.loli.net/2022/04/25/xHUOvRIthfsSYl4.png" >
+<img src="https://s2.loli.net/2022/04/25/xHUOvRIthfsSYl4.png" style="width:70%;" >
 
 
 ### 3. 代码实现
