@@ -12,19 +12,19 @@
 
 #### （到时间响铃，一分钟未醒调大音量）
 
-<img src="<a href="https://sm.ms/image/p7ihtGZHdkxIq6D" target="_blank"><img src="https://s2.loli.net/2022/04/25/p7ihtGZHdkxIq6D.jpg" ></a>" alt="img" style="zoom:35%; float: left; margin-left:300px;" /><img src="<a href="https://sm.ms/image/npR8gkGJsfEbULY" target="_blank"><img src="https://s2.loli.net/2022/04/25/npR8gkGJsfEbULY.jpg" ></a>" alt="img" style="zoom:35%; float:left;margin-left:300px;" />
-<img src="<a href="https://sm.ms/image/8WaXtNhrf172yOF" target="_blank"><img src="https://s2.loli.net/2022/04/25/8WaXtNhrf172yOF.jpg" ></a>" alt="img" style="zoom:35%; float:left; margin-left:300px" /><img src="https://s2.loli.net/2022/04/25/kjYCxd4J8cKrBtH.jpg" alt="img" style="zoom:35%; float:left;margin-left:300px; margin-right:200px;" />
+<img src="https://s2.loli.net/2022/04/25/p7ihtGZHdkxIq6D.jpg" ><img src="https://s2.loli.net/2022/04/25/npR8gkGJsfEbULY.jpg" >
+<img src="https://s2.loli.net/2022/04/25/8WaXtNhrf172yOF.jpg" ><img src="https://s2.loli.net/2022/04/25/kjYCxd4J8cKrBtH.jpg">
 ### 2. 判断入睡逻辑
 
-<img src="C:\Users\PC\Downloads\未命名文件.png" alt="未命名文件" style="zoom:50%;" />
+
+<img src="https://s2.loli.net/2022/04/25/xHUOvRIthfsSYl4.png" >
+
 
 ### 3. 代码实现
 
 #### 3.1 协作线程通信关系图解
 
-![未命名文件 (1)](C:\Users\PC\Downloads\未命名文件 (1).png)
-
-
+<img src="https://s2.loli.net/2022/04/25/Lt4imQuP2q3nEAF.png" alt="未命名文件" style="zoom:50%;" />
 
 #### 3.2 关键代码实现
 
