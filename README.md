@@ -12,8 +12,8 @@
 
 #### （到时间响铃，一分钟未醒调大音量）
 
-<img src="https://s2.loli.net/2022/04/25/p7ihtGZHdkxIq6D.jpg" ><img src="https://s2.loli.net/2022/04/25/npR8gkGJsfEbULY.jpg" >
-<img src="https://s2.loli.net/2022/04/25/8WaXtNhrf172yOF.jpg" ><img src="https://s2.loli.net/2022/04/25/kjYCxd4J8cKrBtH.jpg">
+<img src="https://s2.loli.net/2022/04/25/p7ihtGZHdkxIq6D.jpg" style="width:30%;float:left;"><img src="https://s2.loli.net/2022/04/25/npR8gkGJsfEbULY.jpg" style="width:30%;float:left;" >
+<img src="https://s2.loli.net/2022/04/25/8WaXtNhrf172yOF.jpg" style="width:30%;float:left;" ><img src="https://s2.loli.net/2022/04/25/kjYCxd4J8cKrBtH.jpg" style="width:30%;float:left;">
 ### 2. 判断入睡逻辑
 
 
