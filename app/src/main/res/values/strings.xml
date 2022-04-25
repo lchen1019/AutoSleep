@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoSleep</string>
+    <string name="time">00:30</string>
+    <string name="start">开始</string>
+</resources>
